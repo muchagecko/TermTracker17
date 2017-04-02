@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TermTracker</string>
+    <string name="create_sample_data">Create sample data</string>
+    <string name="delete_all">Delete all</string>
+    <string name="term_deleted">Term Deleted</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="newTerm">New Term</string>
+    <string name="blah">Blah</string>
+    <string name="action_delete">Delete</string>
+    <string name="term_updated">Term updated</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="new_term">new term</string>
+</resources>
